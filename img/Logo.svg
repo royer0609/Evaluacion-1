@@ -1,0 +1,24 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(7.18925279895004,0,0,9.542659323958699,-812.6253238456889,-748.4360876636855) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="106.5" x="122.5" stroke-width="0" fill="#13ef37">Rams</text>
+  <ellipse transform="rotate(-1.1214706897735596 89.49999999999827,257.00000000000045) " stroke="#fcfcf9" ry="6.5" rx="6" id="svg_2" cy="257" cx="89.5" stroke-width="1.5" fill="#fcfcfc"/>
+  <ellipse stroke="#fcfcf9" ry="6.5" rx="6" id="svg_3" cy="113" cx="89.5" stroke-width="1.5" fill="#fcfcfc"/>
+  <ellipse stroke="#fcfcf9" ry="6.5" rx="6" id="svg_4" cy="258" cx="176.5" stroke-width="1.5" fill="#fcfcfc"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="250.5" x2="89.5" y1="120.5" x1="89.5" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <ellipse transform="rotate(-1.1214706897735596 132.50000000000173,186.00000000000088) " stroke="#fcfcf9" ry="6.5" rx="6" id="svg_7" cy="186" cx="132.5" stroke-width="1.5" fill="#fcfcfc"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="185.998902" x2="89.99947" y1="185.998902" x1="125.665926" stroke-width="1.5" stroke="#050501" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="252.998508" x2="171.998986" y1="191.332204" x1="136.999193" fill-opacity="null" stroke-width="1.5" stroke="#050501" fill="none"/>
+  <ellipse stroke="#050501" ry="21.500458" rx="21.500458" id="svg_10" cy="109.998085" cx="239.998938" stroke-width="1.5" fill="#ff0000"/>
+  <ellipse stroke="#050501" ry="20.000426" rx="20.000426" id="svg_11" cy="67.49718" cx="362.501541" stroke-width="1.5" fill="#0000ff"/>
+  <ellipse stroke="#050501" ry="14.000298" rx="14.500309" id="svg_12" cy="104.497967" cx="475.003936" stroke-width="1.5" fill="#ff007f"/>
+ </g>
+</svg>
